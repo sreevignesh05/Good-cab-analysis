@@ -8,9 +8,9 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ## 📁 Repository Structure
 ```
-├── 📂 sql_queries/                  
-├── 📂 Ad-Hoc reports/                       
-├── 📂 ad_hoc_requests/              
+├── 📂 Ad-Hoc reports/          
+├── 📂 ad_hoc_requests/                  
+├── 📂 sql_queries/             
 ├── 📄 README.md                     
 ```
 

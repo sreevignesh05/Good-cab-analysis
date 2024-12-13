@@ -53,7 +53,7 @@ To boost trip volume in cities like Mysore, Coimbatore, and Vadodara:
 <a href="https://www.youtube.com/your-video-link" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Presentation Video" width="60" height="40">
 
-_[Watch the YouTube Presentation Video](https://www.youtue.com/yur-vido-lik)_
+_[Watch the YouTube Presentation Video](https://youtu.be/m3sZyifUetI)_
   
 Explore the detailed walkthrough of the analysis, insights, and recommendations.
 
